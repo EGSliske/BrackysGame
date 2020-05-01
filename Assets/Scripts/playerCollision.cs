@@ -12,7 +12,7 @@ public class playerCollision : MonoBehaviour
        {
            movement.enabled = false;
            FindObjectOfType<GameManager>().EndGame();
-           Debug.Log("Hello Adarr");
+           Debug.Log("Hello Adar");
        }
 
    }
