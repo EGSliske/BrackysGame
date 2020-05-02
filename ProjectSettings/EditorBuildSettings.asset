@@ -6,9 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Menu.unity
+    guid: a1b84e2a5fc830943ab5164b44186dc8
+  - enabled: 1
     path: Assets/BrackysGame 1.unity
     guid: dd37c10ba947c2d4ea6f785364d8c6d3
   - enabled: 1
-    path: Assets/BrackysGameLVL2.unity
-    guid: 152a26955b92a7d44ace5241443a1a82
+    path: Assets/BrackysGame 2.unity
+    guid: 84a8f24f8839526468f68823969fa2ce
+  - enabled: 1
+    path: Assets/BrackysGame 3.unity
+    guid: d6cf842cbd0c34e47af13c5256497d68
+  - enabled: 1
+    path: Assets/Credits.unity
+    guid: 39c6ba8912e26c24486325ce19522fd6
   m_configObjects: {}
