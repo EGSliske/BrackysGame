@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/BrackysGame 1.unity
+    guid: dd37c10ba947c2d4ea6f785364d8c6d3
+  - enabled: 1
+    path: Assets/BrackysGameLVL2.unity
+    guid: 152a26955b92a7d44ace5241443a1a82
   m_configObjects: {}
